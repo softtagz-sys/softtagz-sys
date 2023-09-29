@@ -1,41 +1,34 @@
 
-![Your Name](https://github.com/yourusername/yourusername/blob/main/profile-banner.png)
+![Kobe Ponet](https://github.com/yourusername/yourusername/blob/main/profile-banner.png)
 
-## 👋 Hello, I'm Kobe
+## 👋 Hello, I'm Kobe Ponet
 
-Welcome to my GitHub profile! I'm passionate about technology and love to create, collaborate, and learn. This README serves as an introduction to who I am, what I do, and how you can connect with me.
+Welcome to my GitHub profile! I'm passionate about technology and love to create, and learn. This README serves as an introduction to who I am, what I do, and how you can connect with me.
 
-### 🚀 About Me
+### 🎓 About Me
 
-I'm a [Your Profession/Title] based in [Your Location]. My journey in the world of technology has been filled with exciting projects, challenges, and continuous learning. I'm driven by a thirst for knowledge and a desire to make a positive impact through my work.
+I'm a second-year student at KdG, pursuing a degree in Applied Computer Science and AI. My academic journey is focused on gaining a deep understanding of computer science principles and the exciting world of artificial intelligence. I'm passionate about leveraging technology to solve real-world problems and am constantly seeking opportunities to apply what I've learned in the classroom to practical projects.
 
-### 🌱 What I'm Currently Working On
+### 🌟 My Academic Interests
 
-- 🔭 [Project 1]: Brief description of what this project is about.
-- 🔭 [Project 2]: Brief description of what this project is about.
-- 🔭 [Project 3]: Brief description of what this project is about.
-
-### 💡 What I'm Interested In
-
-I have a wide range of interests in the tech world, including:
-
-- 🌐 Web Development
 - 🤖 Artificial Intelligence and Machine Learning
-- 📱 Mobile App Development
+- 🌐 Web Development
 - 📊 Data Science and Analytics
-- 🌈 Open Source Contributions
+- 📱 App Development
+
+My coursework and research at KdG have equipped me with valuable skills and knowledge in these areas, and I'm eager to continue honing my expertise.
 
 ### 📫 How to Reach Me
 
 - 📧 Email: ponetkobe@gmail.com
-- 💼 LinkedIn: [Your LinkedIn Profile](linkedin.com/in/kobeponet/)
-- 🌐 Website: [Your Personal Website](https://www.yourwebsite.com)
+- 💼 LinkedIn: [My LinkedIn Profile](linkedin.com/in/kobeponet/)
+- 🌐 Website: /
 
 Feel free to connect with me on any of these platforms. I'm always open to new opportunities, collaborations, or just a friendly chat!
 
 ### 📚 My GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=softtagz-sys&show_icons=true)](https://github.com/softtagz-sys)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=softtagz-sys&show_icons=true)](https://github.com/softtagz-sys)
 
 ### 🤝 Let's Collaborate
 
@@ -43,19 +36,5 @@ I'm always looking for exciting collaborations and opportunities to learn and gr
 
 Thank you for visiting my GitHub profile! I look forward to connecting with you and exploring the exciting world of technology together. 😄
 
-![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/softtagz-sys/count.svg)
 
-<!--
-**softtagz-sys/softtagz-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
