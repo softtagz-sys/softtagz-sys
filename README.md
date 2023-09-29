@@ -23,10 +23,6 @@ My coursework and research at KdG have equipped me with valuable skills and know
 
 Feel free to connect with me on any of these platforms. I'm always open to new opportunities, collaborations, or just a friendly chat!
 
-### 📚 My GitHub Stats
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=softtagz-sys&show_icons=true)](https://github.com/softtagz-sys)
-
 ### 🤝 Let's Collaborate
 
 I'm always looking for exciting collaborations and opportunities to learn and grow. If you have a project in mind or would like to connect, please don't hesitate to reach out.
