@@ -1,5 +1,5 @@
 
-![Kobe Ponet](https://github.com/yourusername/yourusername/blob/main/profile-banner.png)
+![Kobe Ponet](https://github.com/yourusername/yourusername/blob/main/github-header-image.png)
 
 ## 👋 Hello, I'm Kobe Ponet
 
