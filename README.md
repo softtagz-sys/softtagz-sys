@@ -1,8 +1,5 @@
 
 ![Header](./github-header-image.png)
-
-## 👋 Hello, I'm Kobe Ponet
-
 Welcome to my GitHub profile! I'm passionate about technology and love to create, and learn. This README serves as an introduction to who I am, what I do, and how you can connect with me.
 
 ### 🎓 About Me
