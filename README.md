@@ -19,6 +19,6 @@ Hello there! 👋 I'm a second-year student at Karel de Grote Hogeschool (KdG), 
 Thank you for visiting my GitHub profile, and I hope you find my projects interesting and informative! 🚀
 
 
-## Visitor count:
+#### Visitor count:
 ![Visitor Count](https://profile-counter.glitch.me/softtagz-sys/count.svg)
 
