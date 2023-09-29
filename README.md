@@ -4,10 +4,10 @@
 Hello there! 👋 I'm a second-year student at Karel de Grote Hogeschool (KdG), pursuing a degree in Applied Computer Science with a major in Artificial Intelligence. I have a strong passion for programming, particularly in C# and Java, and I'm excited to showcase my projects on this GitHub profile.
 
 ### About Me
-Name: Kobe Ponet
-University: Karel de Grote Hogeschool (KdG)
-Major: Artificial Intelligence
-Programming Languages: C#, Java, python
+- Name: Kobe Ponet
+- University: Karel de Grote Hogeschool (KdG)
+- Major: Artificial Intelligence
+- Programming Languages: C#, Java, python
 
 ### How to Reach Me
 
