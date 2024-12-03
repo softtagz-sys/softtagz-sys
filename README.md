@@ -12,9 +12,7 @@ Hello there! 👋 I'm a second-year student at Karel de Grote Hogeschool (KdG), 
 ### How to Reach Me
 
 - 📧 Email: ponetkobe@gmail.com
-- 💼 LinkedIn: [My LinkedIn Profile](linkedin.com/in/kobeponet/)
 - 🎮 Discord: softtagz
-- 🌐 Website: /
 
 Thank you for visiting my GitHub profile, and I hope you find my projects interesting and informative! 🚀
 
