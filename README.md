@@ -110,5 +110,6 @@ hobbies:
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Test post](https://dev.to/neurion/test-post-24ic)
 <!-- BLOG-POST-LIST:END -->
 
