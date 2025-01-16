@@ -110,6 +110,6 @@ hobbies:
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Test post](https://dev.to/neurion/test-post-24ic)
+- [I Built a Sassy RAG Chatbot: A Journey into Retrieval-Augmented Generation with Personality 🎭](https://dev.to/neurion/test-post-24ic)
 <!-- BLOG-POST-LIST:END -->
 
