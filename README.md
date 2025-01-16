@@ -1,4 +1,9 @@
 <div id="header" align="center">
+  <h1>
+    Hello there... Kobe Ponet
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
     <a href="https://dev.to/neurion" target="_blank">
@@ -18,11 +23,9 @@
     </a>  
   </div>
   <img src="https://komarev.com/ghpvc/?username=softtagz-sys&style=flat-square&color=blue" alt=""/>
-  <h1>
-    Hello there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
 </div>
+
+---
 
 ### :man_technologist: A Little Bit About Me And My Intrests :
 ```yaml
@@ -38,8 +41,14 @@ education:
 
 fields_of_intrest:
   [
-    
+    "Data Science",
+    "Machine Learning",
+    "Data Engineering",
+    "Cybersecurity",
+    "Back-end Development"
   ]
+
+hobbies: ["Gaming", "Drumming", "Airsoft"]
 ```
 
 ---
@@ -97,4 +106,12 @@ fields_of_intrest:
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=softtagz-sys&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=softtagz-sys&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :writing_hand: Blog Posts :
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
