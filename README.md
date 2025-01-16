@@ -33,22 +33,19 @@ name: Kobe Ponet
 located_in: Antwerp, Belgium
 current_job: Student
 education:
-  [
-    "Profesional Bachelor in Applied Computer Science"
-    "Specialization in Data and AI"
-    "Karel de Grote Hogeschool"
-  ]
-
-fields_of_intrest:
-  [
-    "Data Science",
-    "Machine Learning",
-    "Data Engineering",
-    "Cybersecurity",
-    "Back-end Development"
-  ]
-
-hobbies: ["Gaming", "Drumming", "Airsoft"]
+  - "Professional Bachelor in Applied Computer Science"
+  - "Specialization in Data and AI"
+  - "Karel de Grote Hogeschool"
+fields_of_interest:
+  - "Data Science"
+  - "Machine Learning"
+  - "Data Engineering"
+  - "Cybersecurity"
+  - "Back-end Development"
+hobbies:
+  - "Gaming"
+  - "Drumming"
+  - "Airsoft"
 ```
 
 ---
