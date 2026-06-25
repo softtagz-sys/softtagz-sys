@@ -6,21 +6,9 @@
   
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="https://dev.to/neurion" target="_blank">
-      <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-    </a>
     <a href="https://www.linkedin.com/in/kobeponet/" target="_blank">
       <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
     </a>
-    <a href="https://stackoverflow.com/users/23625157/softtagz" target="_blank">
-      <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://www.kaggle.com/kobeponet" target="_blank">
-      <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://youtube.com/@neurion_codes?si=wwBGjo1NDJ-Y3J1g" target="_blank">
-      <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-    </a>  
   </div>
   <img src="https://komarev.com/ghpvc/?username=softtagz-sys&style=flat-square&color=blue" alt=""/>
 </div>
@@ -31,7 +19,7 @@
 ```yaml
 name: Kobe Ponet
 located_in: Antwerp, Belgium
-current_job: Student
+current_job: Medikits, Software Engineer
 education:
   - "Professional Bachelor in Applied Computer Science"
   - "Specialization in Data and AI"
